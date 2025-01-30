@@ -11,7 +11,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://react.dev)
-- [Tanstack Query]([https://react.dev](https://tanstack.com))
+- [Tanstack Query](https://tanstack.com)
 - [CSS](https://www.w3schools.com/css/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Node.js - Previamente montado](https://nodejs.org/en)
