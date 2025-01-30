@@ -1,8 +1,36 @@
-# React + Vite
+<h1 align="center">
+  Events
+</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img alt="about_img" src="src/about.png" width="90%">
+</p>
 
-Currently, two official plugins are available:
+## ✨ Tecnologias
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [React](https://react.dev)
+- [Tanstack Query]([https://react.dev](https://tanstack.com))
+- [CSS](https://www.w3schools.com/css/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Node.js - Previamente montado](https://nodejs.org/en)
+
+## 💻 Projeto
+
+O React Events é uma aplicação React que permite a listagem e edição de eventos. Utiliza Tanstack Query e outras otimizações para manuseamento das requisições HTTP.
+
+## 🔖 Acesso
+
+*Sem acesso*
+
+## 🚀 Como executar
+
+- Clone o repositório
+- Instale as dependências do front-end e back-end com `npm install`
+- Inicie o servidor front-end com `npm dev`
+- Inicie o servidor front-end com `node app.js`
+- 
+Agora você pode acessar [`localhost:5173`](http://localhost:5173) do seu navegador.
+
+---
